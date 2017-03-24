@@ -1,0 +1,6 @@
+To run experiments:
+- modify gym_train.py to give it the right environment (not available from command line) and pass the hyperparams in the command line.
+- modify launch_exp.sh to run the grid search
+- use visualize.ipynb to visualise results
+
+Because the experiments generate a lot of data, I screenshot 3 pngs for the 3 environments. 
